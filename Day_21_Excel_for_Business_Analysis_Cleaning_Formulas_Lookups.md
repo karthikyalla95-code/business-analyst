@@ -220,3 +220,17 @@ Extension: Add a low-stock flag using a product inventory table and a lookup.
 Complete Day 21 when you can clean a copy of a dataset, explain each cleaning decision, use core formulas and exact-match lookups, and reconcile totals.
 
 **Bridge to Day 22:** Once the data is reliable, summarize it with PivotTables and communicate patterns through charts and management reporting.
+
+
+---
+
+## Visual references to add manually
+
+### 1. Excel lookup and data standardization
+- **Filename:** `day_21_concept_01_excel_xlookup_data_cleaning.png`
+- **Insert under heading:** `## 7. Lookups`
+- **What it should show:** A raw table with inconsistent labels, a mapping/reference table and an XLOOKUP formula returning standardized values.
+- **Search phrase:** `Excel XLOOKUP mapping table data cleaning example screenshot`
+- **Reference:** [Exceljet — fuzzy match noisy data with XLOOKUP](https://exceljet.net/formulas/fuzzy-match-noisy-data)
+
+*Image note: use a screenshot that makes the lookup value, lookup array, return array and not-found handling readable. Check reuse terms before copying.*
