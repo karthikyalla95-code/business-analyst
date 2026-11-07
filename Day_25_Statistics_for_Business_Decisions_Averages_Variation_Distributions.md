@@ -63,6 +63,12 @@ Variance describes squared deviations from the mean. Standard deviation is the s
 Population variance divides squared deviations by N. Sample variance divides by n−1 to estimate population variability from a sample. In spreadsheet software, functions commonly distinguish STDEV.P and STDEV.S.
 
 ## 5. Distribution and outliers
+
+![Descriptive statistics: center, spread and shape](assets/images/day_25_concept_01_descriptive_statistics.svg)
+
+![Distribution shapes and outliers](assets/images/day_25_concept_02_distribution_shapes.svg)
+
+
 A frequency table groups observations:
 | Resolution time | Case count |
 |---|---:|
