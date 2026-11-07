@@ -288,3 +288,17 @@ Extension: Add an order_items table and show how you would avoid double-counting
 Complete Day 24 when you can select the correct join, explain row multiplication, use a subquery/EXISTS, and reconcile the customer and city summaries.
 
 **Bridge to Day 25:** SQL produces business summaries. Next, use descriptive statistics to interpret variation and distributions rather than relying on averages alone.
+
+
+---
+
+## Visual references to add manually
+
+### 1. INNER JOIN and LEFT JOIN comparison
+- **Filename:** `day_24_concept_01_sql_inner_left_join_venn.png`
+- **Insert under heading:** `## 4. LEFT JOIN` (place immediately after the INNER JOIN explanation so learners can compare both joins).
+- **What it should show:** Two labelled sets/tables; INNER JOIN highlights only matching rows, while LEFT JOIN highlights every left-side row plus matches from the right.
+- **Search phrase:** `SQL INNER JOIN LEFT JOIN Venn diagram example`
+- **Reference:** [Data Carpentry — SQL joins](https://datacarpentry.org/sql-ecology-lesson/03-sql-joins.html)
+
+*Image note: confirm the LEFT JOIN illustration preserves unmatched left-side records. Venn diagrams are a teaching aid; pair the image with a small table example. Check reuse terms before copying.*
