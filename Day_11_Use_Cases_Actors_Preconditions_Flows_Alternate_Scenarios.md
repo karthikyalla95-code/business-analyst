@@ -1344,3 +1344,10 @@ Alternate Scenarios.**
 
 **Next syllabus topic --- Day 12: Requirement Traceability, Validation,
 Sign-off and Change Management.**
+
+
+## Visual learning aids
+
+![Day 11 visual 1: Use case components](assets/images/day_11_concept_01_overview.svg)
+
+![Day 11 visual 2: Main and alternate flows](assets/images/day_11_concept_02_framework.svg)

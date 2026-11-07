@@ -1873,3 +1873,10 @@ Change Management.**
 
 **Next syllabus topic --- Day 13: Business Process Modeling and Process
 Discovery.**
+
+
+## Visual learning aids
+
+![Day 12 visual 1: Requirements traceability](assets/images/day_12_concept_01_overview.svg)
+
+![Day 12 visual 2: Validation and sign-off](assets/images/day_12_concept_02_framework.svg)

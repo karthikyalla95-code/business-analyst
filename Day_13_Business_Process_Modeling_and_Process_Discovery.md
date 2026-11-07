@@ -1515,3 +1515,10 @@ For any process, ask:
 
 **Next syllabus topic --- Day 14: Flowcharts, activities, decisions and
 process boundaries.**
+
+
+## Visual learning aids
+
+![Day 13 visual 1: Process discovery](assets/images/day_13_concept_01_overview.svg)
+
+![Day 13 visual 2: Process model components](assets/images/day_13_concept_02_framework.svg)

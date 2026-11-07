@@ -1206,3 +1206,10 @@ Boundaries.**
 
 **Next syllabus topic --- Day 15: BPMN Basics --- Events, Tasks,
 Gateways and Pools.**
+
+
+## Visual learning aids
+
+![Day 14 visual 1: Flowchart symbols](assets/images/day_14_concept_01_overview.svg)
+
+![Day 14 visual 2: Decision flow](assets/images/day_14_concept_02_framework.svg)

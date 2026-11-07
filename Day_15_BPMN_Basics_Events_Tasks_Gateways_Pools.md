@@ -1374,3 +1374,10 @@ Remember these core ideas:
 **Day 15 complete --- BPMN Basics: Events, Tasks, Gateways and Pools.**
 
 **Next syllabus topic --- Day 16: AS-IS and TO-BE Process Analysis.**
+
+
+## Visual learning aids
+
+![Day 15 visual 1: BPMN core elements](assets/images/day_15_concept_01_overview.svg)
+
+![Day 15 visual 2: Pools and lanes](assets/images/day_15_concept_02_framework.svg)
