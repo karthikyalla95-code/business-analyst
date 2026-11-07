@@ -90,6 +90,10 @@ Suppose tax rate is in H1 and net amount is in E2.
 Relative references move; absolute references lock row and column. Mixed references such as $A2 or A$2 lock only one part.
 
 ## 7. Lookups
+
+![Excel lookup workflow for data standardization](assets/images/day_21_concept_01_excel_xlookup_data_cleaning.svg)
+
+
 A lookup matches a key in one table and returns a related value from another.
 
 Example product master:
