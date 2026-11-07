@@ -207,3 +207,17 @@ Extension: Add a KPI tree showing how a top-level objective such as revenue grow
 Complete Day 20 when you can explain metrics/KPIs/dimensions/measures, calculate a weighted rate correctly, and submit a catalogue with formulas, owners, time windows and decision use.
 
 **Bridge to Day 21:** A KPI catalogue defines what to measure. Next, learn how to prepare operational data in Excel using cleaning, formulas and lookups.
+
+
+---
+
+## Visual references to add manually
+
+### 1. KPI hierarchy: objectives, KPIs, metrics and measures
+- **Filename:** `day_20_concept_01_kpi_hierarchy_pyramid.png`
+- **Insert under heading:** `## 3. Start with the business objective`
+- **What it should show:** A hierarchy connecting business goals/objectives to critical success factors, KPIs, metrics and raw measures.
+- **Search phrase:** `KPI hierarchy goals objectives critical success factors metrics measures pyramid`
+- **Reference:** [KPI hierarchy diagram](https://www.slideshare.net/Unilytics/a-step-by-step-approach-to-actionable-kp-is)
+
+*Image note: make sure the visual distinguishes KPIs from all other metrics; do not imply every metric is a KPI. Check reuse terms before copying.*
