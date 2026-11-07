@@ -132,6 +132,10 @@ FROM orders;
 COUNT(*) counts rows even when some columns are NULL. COUNT(column) skips NULL in that column.
 
 ## 8. GROUP BY and HAVING
+
+![SQL processing flow from WHERE to GROUP BY and HAVING](assets/images/day_23_concept_01_sql_where_groupby_having.svg)
+
+
 GROUP BY creates one output row per group:
 ```sql
 SELECT status, COUNT(*) AS order_count
