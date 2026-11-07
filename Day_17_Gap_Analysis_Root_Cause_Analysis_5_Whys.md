@@ -1824,6 +1824,14 @@ KPI measurement: Did the gap reduce?
 
 ------------------------------------------------------------------------
 
+
+
+## Visual learning aids
+
+![Day 17 visual 1: Gap analysis](assets/images/day_17_concept_01_overview.svg)
+
+![Day 17 visual 2: Five Whys](assets/images/day_17_concept_02_framework.svg)
+
 # 23. Day 17 Completion Checklist
 
 -   [ ] I can define gap analysis and explain why it is used.

@@ -1922,6 +1922,14 @@ Identify the next constraint
 
 ------------------------------------------------------------------------
 
+
+
+## Visual learning aids
+
+![Day 18 visual 1: Fishbone cause categories](assets/images/day_18_concept_01_overview.svg)
+
+![Day 18 visual 2: Optimization cycle](assets/images/day_18_concept_02_framework.svg)
+
 # 25. Day 18 Completion Checklist
 
 -   [ ] I can define a process bottleneck.

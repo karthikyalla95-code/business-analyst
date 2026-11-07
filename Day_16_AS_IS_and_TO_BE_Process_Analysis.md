@@ -1215,3 +1215,10 @@ why, who is affected, and how success will be evaluated.
 
 **Next syllabus topic --- Day 17: Gap Analysis, Root-Cause Analysis and
 the 5 Whys.**
+
+
+## Visual learning aids
+
+![Day 16 visual 1: AS-IS vs TO-BE](assets/images/day_16_concept_01_overview.svg)
+
+![Day 16 visual 2: Process improvement comparison](assets/images/day_16_concept_02_framework.svg)
