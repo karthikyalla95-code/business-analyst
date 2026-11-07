@@ -46,6 +46,10 @@ Aliases c and o make queries shorter. Qualify fields such as customer_id because
 Use INNER JOIN when you only want customers with matching orders.
 
 ## 4. LEFT JOIN
+
+![SQL INNER JOIN and LEFT JOIN comparison](assets/images/day_24_concept_01_sql_inner_left_join.svg)
+
+
 Returns every row from the left table and matching rows from the right table; unmatched right-side fields are NULL.
 
 ```sql
