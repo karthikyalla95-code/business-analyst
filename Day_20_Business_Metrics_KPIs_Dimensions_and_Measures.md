@@ -39,6 +39,10 @@ Scenario: An online store wants to improve delivery reliability. The team needs 
 A metric is not automatically a KPI. A KPI matters because it tracks progress toward a defined objective.
 
 ## 3. Start with the business objective
+
+![KPI hierarchy from objective to measure](assets/images/day_20_concept_01_kpi_hierarchy.svg)
+
+
 Use this chain:
 Business objective → question → KPI → definition → target → action.
 
