@@ -288,3 +288,17 @@ Extension: Add a date-grouped monthly report and explain how you would handle ti
 Complete Day 23 when you can independently write SELECT, WHERE, ORDER BY, aggregate and GROUP BY queries, explain WHERE versus HAVING, and reproduce the expected project totals.
 
 **Bridge to Day 24:** Business questions often need data from more than one table. Next, connect tables with joins and answer practical customer-operations questions.
+
+
+---
+
+## Visual references to add manually
+
+### 1. WHERE, GROUP BY and HAVING execution concept
+- **Filename:** `day_23_concept_01_sql_where_groupby_having.png`
+- **Insert under heading:** `## 8. GROUP BY and HAVING`
+- **What it should show:** Rows filtered by WHERE, then grouped for aggregation, then groups filtered by HAVING.
+- **Search phrase:** `SQL WHERE GROUP BY HAVING order of operations visual diagram`
+- **Reference:** [PipeCode — GROUP BY vs WHERE vs HAVING visual](https://pipecode.ai/blogs/spur-data-engineering-interview-questions-full-de-prep-guide)
+
+*Image note: check that the visual correctly explains WHERE as row filtering before aggregation and HAVING as group filtering after aggregation. Check reuse terms before copying.*
