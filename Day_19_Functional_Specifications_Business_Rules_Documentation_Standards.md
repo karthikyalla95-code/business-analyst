@@ -43,6 +43,10 @@ A Business Analyst turns that broad need into an agreed description of system be
 
 ## 3. Anatomy of a useful Functional Specification
 
+![Functional specification structure](assets/images/day_19_concept_01_functional_specification_structure.svg)
+
+
+
 A practical FSD usually contains:
 
 1. Document control: title, owner, version, date and status.
@@ -164,6 +168,10 @@ Exception paths:
 A good specification documents both the normal flow and important exceptions.
 
 ## 8. Follow-along: create a traceability chain
+
+![Requirements traceability from business need to test evidence](assets/images/day_19_concept_02_requirements_traceability_matrix.svg)
+
+
 
 Use this simple chain:
 
