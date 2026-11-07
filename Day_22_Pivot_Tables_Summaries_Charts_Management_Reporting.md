@@ -43,6 +43,10 @@ Example source:
 | 5 | West | Home | Delivered | 600 |
 
 ## 4. Build a PivotTable (Excel)
+
+![PivotTable field areas: Filters, Columns, Rows and Values](assets/images/day_22_concept_01_excel_pivottable_field_areas.svg)
+
+
 1. Click a cell in the clean source table.
 2. Choose Insert → PivotTable.
 3. Confirm the table/range and choose New Worksheet.
