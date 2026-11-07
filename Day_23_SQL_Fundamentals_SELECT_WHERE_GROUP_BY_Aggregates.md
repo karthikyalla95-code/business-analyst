@@ -306,3 +306,8 @@ Complete Day 23 when you can independently write SELECT, WHERE, ORDER BY, aggreg
 - **Reference:** [PipeCode — GROUP BY vs WHERE vs HAVING visual](https://pipecode.ai/blogs/spur-data-engineering-interview-questions-full-de-prep-guide)
 
 *Image note: check that the visual correctly explains WHERE as row filtering before aggregation and HAVING as group filtering after aggregation. Check reuse terms before copying.*
+
+
+### Additional concept visual
+
+![Day 23 visual 2: SQL query logical flow](assets/images/day_23_concept_02_query_order.svg)

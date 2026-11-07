@@ -225,3 +225,8 @@ Complete Day 22 when the dashboard reconciles to source data, uses suitable char
 - **Reference:** [Nexacu — PivotTable fields pane](https://nexacu.com.au/insights-blog/pivot-tables-in-excel-complete-tutorial/)
 
 *Image note: prefer a genuine Excel screenshot with the four areas clearly labelled. Check reuse terms before copying.*
+
+
+### Additional concept visual
+
+![Day 22 visual 2: Management reporting cycle](assets/images/day_22_concept_02_reporting_cycle.svg)

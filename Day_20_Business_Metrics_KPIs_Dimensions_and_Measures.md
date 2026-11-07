@@ -225,3 +225,8 @@ Complete Day 20 when you can explain metrics/KPIs/dimensions/measures, calculate
 - **Reference:** [KPI hierarchy diagram](https://www.slideshare.net/Unilytics/a-step-by-step-approach-to-actionable-kp-is)
 
 *Image note: make sure the visual distinguishes KPIs from all other metrics; do not imply every metric is a KPI. Check reuse terms before copying.*
+
+
+### Additional concept visual
+
+![Day 20 visual 2: Dimensions and measures](assets/images/day_20_concept_02_dimensions_measures.svg)

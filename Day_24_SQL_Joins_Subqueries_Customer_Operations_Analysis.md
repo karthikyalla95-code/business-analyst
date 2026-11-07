@@ -306,3 +306,8 @@ Complete Day 24 when you can select the correct join, explain row multiplication
 - **Reference:** [Data Carpentry — SQL joins](https://datacarpentry.org/sql-ecology-lesson/03-sql-joins.html)
 
 *Image note: confirm the LEFT JOIN illustration preserves unmatched left-side records. Venn diagrams are a teaching aid; pair the image with a small table example. Check reuse terms before copying.*
+
+
+### Additional concept visual
+
+![Day 24 visual 2: Join matching records](assets/images/day_24_concept_02_join_matching.svg)
