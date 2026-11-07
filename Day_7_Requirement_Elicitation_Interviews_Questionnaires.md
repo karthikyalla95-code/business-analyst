@@ -1386,6 +1386,14 @@ Try answering these questions before checking the answers.
 **A useful BA habit:** Never assume that the first statement you hear is
 the complete requirement. Ask, listen, probe, record and confirm.
 
+
+
+## Visual learning aids
+
+![Day 7 visual 1: Interview flow](assets/images/day_07_concept_01_overview.svg)
+
+![Day 7 visual 2: Question types](assets/images/day_07_concept_02_framework.svg)
+
 # 14. Day 7 Completion Checklist
 
 -   [ ] I can explain requirement elicitation in simple language.

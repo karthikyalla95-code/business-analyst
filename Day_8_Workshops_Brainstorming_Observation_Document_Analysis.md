@@ -1304,6 +1304,14 @@ Try answering these questions before checking the answers.
 business rule or process detail is uncertain. Compare what people say,
 what they do and what the organization has documented.
 
+
+
+## Visual learning aids
+
+![Day 8 visual 1: Workshop sequence](assets/images/day_08_concept_01_overview.svg)
+
+![Day 8 visual 2: Observation and document analysis](assets/images/day_08_concept_02_framework.svg)
+
 # 14. Day 8 Completion Checklist
 
 -   [ ] I can explain what a workshop is and when to use one.

@@ -1719,3 +1719,10 @@ Use this checklist to assess whether you understand the lesson.
 
 **Next syllabus topic --- Day 10: User stories, acceptance criteria and
 INVEST principles.**
+
+
+## Visual learning aids
+
+![Day 9 visual 1: Requirement analysis cycle](assets/images/day_09_concept_01_overview.svg)
+
+![Day 9 visual 2: MoSCoW prioritization](assets/images/day_09_concept_02_framework.svg)

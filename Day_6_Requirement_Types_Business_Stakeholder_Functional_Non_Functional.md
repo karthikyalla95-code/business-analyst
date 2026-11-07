@@ -1291,6 +1291,14 @@ FUNCTIONAL     = SOLUTION BEHAVIOR
 NON-FUNCTIONAL = SOLUTION QUALITY OR OPERATING CONDITION
 ```
 
+
+
+## Visual learning aids
+
+![Day 6 visual 1: Requirement hierarchy](assets/images/day_06_concept_01_overview.svg)
+
+![Day 6 visual 2: Functional vs non-functional](assets/images/day_06_concept_02_framework.svg)
+
 # 21. Day 6 Completion Checklist
 
 -   [ ] I can explain what a requirement is.

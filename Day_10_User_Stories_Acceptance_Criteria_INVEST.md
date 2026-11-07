@@ -1280,3 +1280,10 @@ D. Acceptance criteria are only for developers.
 
 **Next syllabus topic --- Day 11: Use cases, actors, preconditions,
 flows and alternate scenarios.**
+
+
+## Visual learning aids
+
+![Day 10 visual 1: User story structure](assets/images/day_10_concept_01_overview.svg)
+
+![Day 10 visual 2: INVEST criteria](assets/images/day_10_concept_02_framework.svg)
