@@ -222,3 +222,17 @@ Extension: Compare the 90th percentile across teams and explain why a tail metri
 Complete Day 25 when you can calculate and interpret central tendency and spread, explain skew/outliers, and produce a report that states its assumptions and limitations.
 
 **Bridge to Day 26:** After describing current performance, the next step in the pathway is to examine trends over time and distinguish short-term fluctuations from meaningful changes.
+
+
+---
+
+## Visual references to add manually
+
+### 1. Descriptive statistics and distribution shapes
+- **Filename:** `day_25_concept_01_descriptive_statistics_distributions.png`
+- **Insert under heading:** `## 5. Distribution and outliers`
+- **What it should show:** Mean/median/mode, symmetric versus right-skewed and left-skewed distributions, outliers, histogram and box plot concepts.
+- **Search phrase:** `descriptive statistics mean median mode standard deviation skewed distributions histogram infographic`
+- **Reference:** [LivePhysics — descriptive statistics infographic](https://livephysics.com/infographics/statistics-descriptive-statistics/)
+
+*Image note: use a legible educational diagram and verify its explanation of skew and outliers. Check reuse terms before copying.*
