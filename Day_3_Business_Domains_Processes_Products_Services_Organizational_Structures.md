@@ -1726,6 +1726,14 @@ accurately. I can deepen my knowledge as the work progresses.
 
 ------------------------------------------------------------------------
 
+
+
+## Visual learning aids
+
+![Day 3 visual 1: Business domain map](assets/images/day_03_concept_01_overview.svg)
+
+![Day 3 visual 2: Organization structure](assets/images/day_03_concept_02_framework.svg)
+
 # 20. Day 3 Completion Checklist
 
 -   [ ] I can explain what a business domain is.

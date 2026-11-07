@@ -1363,3 +1363,10 @@ Evaluate Business Value
 ```
 
 **Day 1 key takeaway:** A Business Analyst helps ensure that a team does not simply build a system because someone requested it. The team first understands the business need, identifies the right requirements and works toward a solution that provides useful business value.
+
+
+## Visual learning aids
+
+![Day 1 visual 1: Business analysis lifecycle](assets/images/day_01_concept_01_overview.svg)
+
+![Day 1 visual 2: SDLC phases and BA contribution](assets/images/day_01_concept_02_framework.svg)

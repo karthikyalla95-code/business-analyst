@@ -1567,6 +1567,14 @@ without jumping directly to a solution.
 
 ------------------------------------------------------------------------
 
+
+
+## Visual learning aids
+
+![Day 2 visual 1: From problem to measurable objective](assets/images/day_02_concept_01_overview.svg)
+
+![Day 2 visual 2: Stakeholder perspectives](assets/images/day_02_concept_02_framework.svg)
+
 # 20. Day 2 Completion Checklist
 
 Use this checklist to confirm that you understand the lesson.

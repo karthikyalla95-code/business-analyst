@@ -1247,6 +1247,14 @@ Try answering these before reviewing the answers.
 8.  Exclusions prevent different stakeholders from assuming that
     additional capabilities are part of the agreed delivery.
 
+
+
+## Visual learning aids
+
+![Day 5 visual 1: From need to scope](assets/images/day_05_concept_01_overview.svg)
+
+![Day 5 visual 2: Constraints and assumptions](assets/images/day_05_concept_02_framework.svg)
+
 # 17. Day 5 Completion Checklist
 
 -   [ ] I can explain a business need without jumping directly to a

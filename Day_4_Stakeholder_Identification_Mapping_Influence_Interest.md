@@ -1401,6 +1401,14 @@ I would update the stakeholder analysis and map, understand why the influence ch
 
 ---
 
+
+
+## Visual learning aids
+
+![Day 4 visual 1: Stakeholder identification](assets/images/day_04_concept_01_overview.svg)
+
+![Day 4 visual 2: Power–interest matrix](assets/images/day_04_concept_02_framework.svg)
+
 # 25. Day 4 Completion Checklist
 
 - [ ] I can define a stakeholder in simple words.
