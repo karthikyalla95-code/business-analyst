@@ -207,3 +207,17 @@ Extension: Add a target column and compare regional sales against an agreed targ
 Complete Day 22 when the dashboard reconciles to source data, uses suitable charts, clearly states its filters and period, and includes evidence-based insight notes.
 
 **Bridge to Day 23:** Excel supports quick analysis. Next, use SQL to retrieve and aggregate business data directly from relational databases.
+
+
+---
+
+## Visual references to add manually
+
+### 1. PivotTable field list and layout areas
+- **Filename:** `day_22_concept_01_excel_pivottable_field_areas.png`
+- **Insert under heading:** `## 4. Build a PivotTable (Excel)`
+- **What it should show:** The PivotTable Fields pane and the four drop zones: Filters, Columns, Rows and Values.
+- **Search phrase:** `Excel PivotTable Fields pane Filters Columns Rows Values screenshot`
+- **Reference:** [Nexacu — PivotTable fields pane](https://nexacu.com.au/insights-blog/pivot-tables-in-excel-complete-tutorial/)
+
+*Image note: prefer a genuine Excel screenshot with the four areas clearly labelled. Check reuse terms before copying.*
