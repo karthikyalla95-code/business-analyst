@@ -360,3 +360,26 @@ Choose one answer for each question. Answers and explanations are below so you c
 You have completed Day 19 when you can explain the difference between a business requirement, functional requirement, NFR and business rule; write six testable requirements; create acceptance criteria; and submit the Functional Specification project with traceability.
 
 **Bridge to Day 20:** Once requirements are documented, a BA needs to measure whether the solution improves the business. Next: business metrics, KPIs, dimensions and measures.
+
+
+---
+
+## Visual references to add manually
+
+Add the following visuals at the matching headings. Save each image using the exact filename shown so it is easy to locate later.
+
+### 1. Functional specification document structure
+- **Filename:** `day_19_concept_01_functional_specification_structure.png`
+- **Insert under heading:** `## 3. Anatomy of a useful Functional Specification`
+- **What it should show:** A document-structure diagram covering purpose/scope, stakeholders, functional requirements, business rules, data, flows, NFRs, acceptance criteria and approvals.
+- **Search phrase:** `functional specification document structure diagram requirements sections`
+- **Reference:** [Software Requirements Specification structure visual](https://www.docuwriter.ai/posts/how-to-write-software-requirements-specifications)
+
+### 2. Requirements traceability
+- **Filename:** `day_19_concept_02_requirements_traceability_matrix.png`
+- **Insert under heading:** `## 8. Follow-along: create a traceability chain`
+- **What it should show:** Business need → business requirement → functional requirement → acceptance criterion → test case, preferably as a traceability matrix or flow.
+- **Search phrase:** `requirements traceability matrix business requirement functional requirement test case diagram`
+- **Reference:** [Texas Project Delivery Framework — requirements specification guidance](https://dir.texas.gov/sites/default/files/2025-07/Requirements%20Traceability%20Matrix%20Instructions_July2025.pdf)
+
+*Image note: use the reference to find or create a clear visual; check the source's reuse terms before copying it into published notes.*
